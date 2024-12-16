@@ -1,0 +1,5 @@
+nu_contrato,tipo,valor,taxa_mensal,nu_parcelas,nu_parcelas_pagas
+1,SAC,1000.00,0.03,4,3
+2,SAC,260000.00,0.015,100,30
+3,PRICE,2000.00,0.03,4,1
+4,PRICE,180000.00,0.020,200,150
